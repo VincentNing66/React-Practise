@@ -1,0 +1,11 @@
+.divStyle{
+    text-align: center;
+    margin: 16px;
+    padding: 16px;
+    display: block;
+    background-color: yellow;
+}
+.divStyle:hover{
+
+    background-color: salmon;
+}

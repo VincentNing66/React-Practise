@@ -1,13 +1,15 @@
 import React, { Component } from 'react';
 import './App.css';
-import TaskOne from './TaskOne'
+import TaskOne from './TaskOne_Lists&Conditions';
+import TaskTwo from './TaskTwo_StylePackages';
 
 class App extends Component {
 
   render() {
     return (
-      <div className="App">
-        <TaskOne />
+      <div>
+        {/* <TaskOne /> */}
+        <TaskTwo />
 
       </div>
     )
