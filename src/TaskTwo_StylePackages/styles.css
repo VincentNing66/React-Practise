@@ -4,8 +4,8 @@
     padding: 16px;
     display: block;
     background-color: yellow;
-    
-    :hover {
-        background-color: green;
-    };
+}
+.divStyle:hover{
+
+    background-color: salmon;
 }
